@@ -206,3 +206,6 @@ This repository serves as the official landing page for Hearts of Iron 4: Arms A
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hearts of Iron 4: Arms Against Tyranny today!**
+
+---
+**Last updated:** 2026-11-06 07:47:08 UTC
