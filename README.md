@@ -208,4 +208,4 @@ This repository serves as the official landing page for Hearts of Iron 4: Arms A
 **Get the most recent version of Hearts of Iron 4: Arms Against Tyranny today!**
 
 ---
-**Last updated:** 2026-11-12 09:30:54 UTC
+**Last updated:** 2026-11-12 17:59:47 UTC
